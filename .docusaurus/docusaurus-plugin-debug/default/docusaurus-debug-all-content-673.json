@@ -1,0 +1,171 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/zh-Hans/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\DELL\\Desktop\\website\\sidebars.js",
+          "contentPath": "C:\\Users\\DELL\\Desktop\\website\\docs",
+          "contentPathLocalized": "C:\\Users\\DELL\\Desktop\\website\\i18n\\zh-Hans\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "c++/begin",
+              "id": "c++/begin",
+              "title": "笔记内容",
+              "description": "第零章 相关知识",
+              "source": "@site/docs/c++/01-begin.md",
+              "sourceDirName": "c++",
+              "slug": "/c++/begin",
+              "permalink": "/docs/c++/begin",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/c++/01-begin.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "笔记内容",
+                "authors": "Limuchan"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "文档类内容",
+                "permalink": "/docs/intro"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "文档类内容",
+              "description": "目前，这里只有 笔记.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "文档类内容",
+                "authors": "Limuchan"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "笔记内容",
+                "permalink": "/docs/c++/begin"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "c++",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "c++/begin"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "/2022/8/8/MyBlog",
+          "metadata": {
+            "permalink": "/blog/2022/8/8/MyBlog",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2022-8-8-MyBlog.md",
+            "source": "@site/blog/2022-8-8-MyBlog.md",
+            "title": "常见鸟类记录",
+            "description": "喜鹊",
+            "date": "2022-08-08T00:00:00.000Z",
+            "formattedDate": "2022年8月8日",
+            "tags": [],
+            "readingTime": 1.94,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Limuchan"
+              }
+            ],
+            "frontMatter": {
+              "title": "常见鸟类记录",
+              "data": "2022-08-08T00:00:00.000Z",
+              "author": "Limuchan"
+            }
+          },
+          "content": "## 喜鹊\r\n\r\n<img\r\n  src={require('/static/img/xique.jpg').default}\r\n  alt=\"喜鹊\"\r\n/>\r\n\r\n鸦科、鹊属<br/>\r\n体长40-50厘米<br/>\r\n雌雄羽色相似，头、颈、背至尾均为黑色<br/>\r\n自前往后分别呈现紫色、绿蓝色、绿色等光泽<br/>\r\n双翅黑色而在翼肩有一大形白斑<br/>\r\n尾远较翅长，呈楔形，嘴、腿、脚纯黑色<br/>\r\n腹面以胸为界，前黑后白<br/>\r\ntips：<br/>\r\n封建迷信受益鸟<br/>\r\n呕哑嘲哳难为听<br/>\r\n\r\n## 树麻雀\r\n\r\n<img\r\n  src={require('/static/img/maque.jpg').default}\r\n  alt=\"树麻雀\"\r\n/>\r\n\r\n通称麻雀<br/>\r\n雀科、麻雀属<br/>\r\n体长13-15厘米<br/>\r\n额、头顶至后颈栗褐色，头侧白色，耳部有一黑斑<br/>\r\n背沙褐或棕褐色具黑色纵纹<br/>\r\n颏、喉黑色，其余下体污灰白色微沾褐色<br/>\r\n相似种家麻雀以及其他麻雀颊部均无黑斑<br/>\r\ntips：<br/>\r\n死亡黑腮红代言鸟<br/>\r\n曾被控有害动物<br/>\r\n现已平反<br/>\r\n\r\n## 戴胜\r\n\r\n<img\r\n  src={require('/static/img/daisheng.jpg').default}\r\n  alt=\"戴胜\"\r\n/>\r\n\r\n戴胜科、戴胜属<br/>\r\n体长26-28厘米，翼展42-46厘米，体重55-80克<br/>\r\n头顶羽冠长而阔，呈扇形，颜色为棕红色或沙粉红色<br/>\r\n头侧和后颈淡棕色，上背和肩灰棕色<br/>\r\n翅上覆羽黑色，具较宽的白色或棕白色横斑<br/>\r\n腰白色，尾羽黑色而中部具一白色横斑<br/>\r\n颏、喉和上胸葡萄棕色<br/>\r\n腹白色而杂有褐色纵纹，虹膜暗褐色，嘴细长而向下弯曲<br/>\r\ntips：<br/>\r\n不是啄木鸟，只能刨土<br/>\r\n但是真的很常见<br/>"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "/2022/8/8/MyBlog"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}
