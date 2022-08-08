@@ -1,0 +1,47 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "文档类内容",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "c++",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "笔记内容",
+            "href": "/docs/c++/begin",
+            "docId": "c++/begin"
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "c++/begin": {
+      "id": "c++/begin",
+      "title": "笔记内容",
+      "description": "第零章 相关知识",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "文档类内容",
+      "description": "目前，这里只有 笔记.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

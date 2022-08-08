@@ -1,0 +1,25 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "文档类内容",
+  "description": "目前，这里只有 笔记.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "文档类内容",
+    "authors": "Limuchan"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "笔记内容",
+    "permalink": "/docs/c++/begin"
+  }
+}

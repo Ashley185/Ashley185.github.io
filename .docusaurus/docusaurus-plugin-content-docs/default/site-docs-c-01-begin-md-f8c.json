@@ -1,0 +1,25 @@
+{
+  "unversionedId": "c++/begin",
+  "id": "c++/begin",
+  "title": "笔记内容",
+  "description": "第零章 相关知识",
+  "source": "@site/docs/c++/01-begin.md",
+  "sourceDirName": "c++",
+  "slug": "/c++/begin",
+  "permalink": "/docs/c++/begin",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/c++/01-begin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "笔记内容",
+    "authors": "Limuchan"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "文档类内容",
+    "permalink": "/docs/intro"
+  }
+}
